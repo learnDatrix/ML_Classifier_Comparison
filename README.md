@@ -36,10 +36,10 @@ The dataset consists of 20 attributes, which can be categorized as follows:
    - The confusion matrices provide insights into the model's ability to correctly classify credit card applicants as accepted or rejected.
   
    - Confusion Matrix of SVM:
-      ![cf of SVM](/screenshots/SVM_cf)
+      ![cf of SVM](/screenshots/SVM_cf.png)
      
    - Confusion Matrix of LDA:
-      ![cf of LDA](/screenshots/LDA_cf)
+      ![cf of LDA](/screenshots/LDA_cf.png)
 ## Usage
 
 To run the code and perform the analysis:
